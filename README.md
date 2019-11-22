@@ -1,0 +1,2 @@
+
+check ttyS0
